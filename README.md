@@ -1,16 +1,50 @@
-## Hi there 👋
+Александр Аникеев
+------------------
+Локация: Москва, Россия
+Возраст: 16 лет / более 3 лет опыта, 8+ ботов
 
-<!--
-**Alexaaanik/Alexaaanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Роль:
+- Telegram Bot Developer
+- Python Backend Engineer
 
-Here are some ideas to get you started:
+Проекты:
+Telegram-боты:
+  • Restaurant queues
+  • Hotel queues
+  • Bank: queues
+  • AI moderation
+  • Guess photo date
+  • Agro jobs
+  • Nickname generator
+  • Seller check
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Приложения:
+  • Geolocation from screenshots
+  • Git-like Saver
+
+Веб:
+  • Сайт-портфолио alexanik.ru
+
+Навыки:
+  • Python
+  • Aiogram 2.x
+  • AsyncIO
+  • AI Integration
+  • Vision
+  • Desktop Apps
+  • PostgreSQL
+  • HTML5
+  • Vanilla JS
+
+Контакты:
+  Телефон (Москва): +7 993 615 85 21
+  Email (рабочий): hello.anikeev@ya.ru
+
+Ссылки:
+  • Telegram
+  • Скачивание резюме / CV
+  • GitHub
+  • YouTube
+  • X (Twitter)
+  • LinkedIn
+  • VK
