@@ -1,3 +1,4 @@
+![My Photo](photo.jpg)
 # Alexander Anikeev
 
 ## 👋 About Me
