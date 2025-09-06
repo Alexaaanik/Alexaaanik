@@ -1,50 +1,51 @@
-Александр Аникеев
-------------------
-Локация: Москва, Россия
-Возраст: 16 лет / более 3 лет опыта, 8+ ботов
+✨ Александр Аникеев
+<img src="https://alexanik.ru/assets/logo.png" width="120" align="right" />
 
-Роль:
-- Telegram Bot Developer
-- Python Backend Engineer
+👋 Привет! Меня зовут Александр Аникеев.
+Я Telegram Bot Developer и Python Backend Engineer из Москвы.
 
-Проекты:
-Telegram-боты:
-  • Restaurant queues
-  • Hotel queues
-  • Bank: queues
-  • AI moderation
-  • Guess photo date
-  • Agro jobs
-  • Nickname generator
-  • Seller check
+🎂 15 лет
 
-Приложения:
-  • Geolocation from screenshots
-  • Git-like Saver
+🖥 3+ года опыта программирования
 
-Веб:
-  • Сайт-портфолио alexanik.ru
+🤖 Создал 8+ ботов для реальных клиентов
 
-Навыки:
-  • Python
-  • Aiogram 2.x
-  • AsyncIO
-  • AI Integration
-  • Vision
-  • Desktop Apps
-  • PostgreSQL
-  • HTML5
-  • Vanilla JS
+🚀 Стремлюсь учиться и работать в сфере AI, бэкенд-разработки и автоматизации
 
-Контакты:
-  Телефон (Москва): +7 993 615 85 21
-  Email (рабочий): hello.anikeev@ya.ru
+📌 Проекты
+🔹 Telegram-боты
+🛠 Проект	📄 Описание	🔗 Демо
+🍽 TableRuchBot	Система очередей для ресторанов	Try Demo
 
-Ссылки:
-  • Telegram
-  • Скачивание резюме / CV
-  • GitHub
-  • YouTube
-  • X (Twitter)
-  • LinkedIn
-  • VK
+🏨 Hotel Queue Bot	Очереди и бронирование для отелей	—
+🏦 Bank Queue Bot	Очереди в банках (пример: Alfa-Bank)	—
+🧑‍⚖️ ChatGuardBot	AI-модератор сообщений и фото	Подробнее
+
+📸 Guess Photo Date	Семейная игра «Угадай по фото»	—
+🛍 Seller Check Bot	Проверка надёжности продавца	—
+🎲 Nickname Generator	Креативные ники для игр/соцсетей	—
+🌱 Agro Jobs Bot	Поиск вакансий в сельском хозяйстве	—
+🔹 Приложения
+
+🗺 Geolocation from Screenshot — определение места по скриншоту
+
+💾 Git-like Saver — утилита для сохранения версий файлов
+
+⚡ Навыки
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,postgresql,html,js,github" /> </p>
+
+🐍 Python (Aiogram 2.x, AsyncIO)
+
+🤖 AI Integration & Computer Vision
+
+🖥 Desktop Apps
+
+🗄 PostgreSQL
+
+🌐 HTML5, Vanilla JS
+
+🌍 Контакты
+<p align="center"> <a href="https://t.me/YourBotMaker"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:hello.anikeev@ya.ru"><img src="https://img.shields.io/badge/Email-FF5C5C?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Alexanik"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.youtube.com/@alexanik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://vk.com/alexanik"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" /></a> </p>
+
+📞 Телефон: +7 993 615 85 21
+📧 Почта: hello.anikeev@ya.ru
