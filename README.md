@@ -17,26 +17,22 @@ I am a **Telegram Bot Developer** and **Python Backend Engineer** from Moscow.
 ## 📌 Projects
 
 ### 🔹 Telegram Bots
-| Project | Description | Demo | Learn More |
-|---------|-------------|------|------------|
-| 🍽 **TableRuchBot** | Queue management system for restaurants | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikTableRushBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/TableRuchBot) |
-| 🏨 **Hotel Queue Bot** | Hotel queue and booking system | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikSmartQueueBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/SmartQueue) |
-| 🏦 **Bank Queue Bot** | Queue management for banks (example: Alfa-Bank) | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlfaBranchBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Alfa-Bank-Queue-Bot) |
-| 🧑‍⚖️ **ChatGuardBot** | AI-powered moderation for channels and groups | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikChatGuardBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/ChatGuardBot) |
-| 📸 **Guess Photo Date** | Family game: guess the year from old photos | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AnikeevFamilyBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Photo-Memories) |
-| 🛍 **Seller Check Bot** | Reliability check for online sellers | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikCheckSellerBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Seller-Verification-Bot) |
-| 🎲 **Nickname Generator** | Creative nickname generator for games and socials | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikNickBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Nickname-Generator-Bot) |
-| 🌱 **Agro Jobs Bot** | Job search in agriculture | [![Try](https://img.shields.io/badge/Try-Bot-2ea44f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexaaanikRabotaAgroBot) | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Agro-Careers-Bot) |
+| Project | Description | Demo | More |
+|---------|-------------|------|------|
+| 🍽 **TableRuchBot** | Queue management system for restaurants | [Try](https://t.me/AlexaaanikTableRushBot) | [More Details](https://github.com/Alexaaanik/TableRuchBot) |
+| 🏨 **Hotel Queue Bot** | Hotel queue and booking system | [Try](https://t.me/AlexaaanikSmartQueueBot) | [More Details](https://github.com/Alexaaanik/SmartQueue) |
+| 🏦 **Bank Queue Bot** | Queue management for banks (example: Alfa-Bank) | [Try](https://t.me/AlfaBranchBot) | [More Details](https://github.com/Alexaaanik/Alfa-Bank-Queue-Bot) |
+| 🧑‍⚖️ **ChatGuardBot** | AI-powered moderation for channels and groups | [Try](https://t.me/AlexaaanikChatGuardBot) | [More Details](https://github.com/Alexaaanik/ChatGuardBot) |
+| 📸 **Guess Photo Date** | Family game: guess the year from old photos | [Try](https://t.me/AnikeevFamilyBot) | [More Details](https://github.com/Alexaaanik/Photo-Memories) |
+| 🛍 **Seller Check Bot** | Reliability check for online sellers | [Try](https://t.me/AlexaaanikCheckSellerBot) | [More Details](https://github.com/Alexaaanik/Seller-Verification-Bot) |
+| 🎲 **Nickname Generator** | Creative nickname generator for games and socials | [Try](https://t.me/AlexaaanikNickBot) | [More Details](https://github.com/Alexaaanik/Nickname-Generator-Bot) |
+| 🌱 **Agro Jobs Bot** | Job search in agriculture | [Try](https://t.me/AlexaaanikRabotaAgroBot) | [More Details](https://github.com/Alexaaanik/Agro-Careers-Bot) |
 
 ---
-
-### 🔹 Applications
-| App | Description | Learn More |
-|-----|-------------|------------|
-| 🗺 **Geolocation from Screenshot** | Detect location from screenshots | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Screenshot-Geolocation) |
-| 💾 **Git-like Saver** | Local versioning utility | [![More](https://img.shields.io/badge/More-Details-blue?style=for-the-badge)](https://github.com/Alexaaanik/Git-like-Saver) |
-
----
+| App | Description | More |
+|-----|-------------|------|
+| 🗺 **Geolocation from Screenshot** | Detect location from screenshots | [More Details](https://github.com/Alexaaanik/Screenshot-Geolocation) |
+| 💾 **Git-like Saver** | Local versioning utility | [More Details](https://github.com/Alexaaanik/Git-like-Saver) |
 
 ## ⚡ Skills
 
