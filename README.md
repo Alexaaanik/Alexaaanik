@@ -44,13 +44,13 @@ I am a **Telegram Bot Developer** and **Python Backend Engineer** from Moscow.
 
 ---
 
-## 🌍 Contacts
 
-- 📞 Phone: `+7 993 615 85 21`  
+## 🌍 Contacts  
+
+[![Phone](https://img.shields.io/badge/📞_Phone-+7_993_615_85_21-lightgrey?style=for-the-badge)](tel:+79936158521)  
 [![Website](https://img.shields.io/badge/🌐_Website-alexanik.ru-2ea44f?style=for-the-badge)](https://alexanik.ru)  
 [![Telegram](https://img.shields.io/badge/📱_Telegram-YourBotMaker-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourBotMaker)  
 [![YouTube](https://img.shields.io/badge/▶️_YouTube-alexanik-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbAc-HHr88_OdjTAb-rZ7gA)  
 [![Email](https://img.shields.io/badge/📧_Email-hello.anikeev@ya.ru-blue?style=for-the-badge)](mailto:hello.anikeev@ya.ru)  
----
 
 ⭐️ *Made with passion by [Alexanik](https://alexanik.ru/)*
