@@ -13,46 +13,6 @@ I am a **Telegram Bot Developer** and **Python Backend Engineer** from Moscow.
 
 🌐 Website: [alexanik.ru](https://alexanik.ru/)  
 
----
-
-## 📌 Projects
-
-### 🔹 Telegram Bots
-| Project | Description | Demo | More |
-|---------|-------------|------|------|
-| 🍽 **TableRuchBot** | Queue management system for restaurants | [Try](https://t.me/AlexaaanikTableRushBot) | [More Details](https://github.com/Alexaaanik/TableRuchBot) |
-| 🏨 **Hotel Queue Bot** | Hotel queue and booking system | [Try](https://t.me/AlexaaanikSmartQueueBot) | [More Details](https://github.com/Alexaaanik/SmartQueue) |
-| 🏦 **Bank Queue Bot** | Queue management for banks (example: Alfa-Bank) | [Try](https://t.me/AlfaBranchBot) | [More Details](https://github.com/Alexaaanik/Alfa-Bank-Queue-Bot) |
-| 🧑‍⚖️ **ChatGuardBot** | AI-powered moderation for channels and groups | [Try](https://t.me/AlexaaanikChatGuardBot) | [More Details](https://github.com/Alexaaanik/ChatGuardBot) |
-| 📸 **Guess Photo Date** | Family game: guess the year from old photos | [Try](https://t.me/AnikeevFamilyBot) | [More Details](https://github.com/Alexaaanik/Photo-Memories) |
-| 🛍 **Seller Check Bot** | Reliability check for online sellers | [Try](https://t.me/AlexaaanikCheckSellerBot) | [More Details](https://github.com/Alexaaanik/Seller-Verification-Bot) |
-| 🎲 **Nickname Generator** | Creative nickname generator for games and socials | [Try](https://t.me/AlexaaanikNickBot) | [More Details](https://github.com/Alexaaanik/Nickname-Generator-Bot) |
-| 🌱 **Agro Jobs Bot** | Job search in agriculture | [Try](https://t.me/AlexaaanikRabotaAgroBot) | [More Details](https://github.com/Alexaaanik/Agro-Careers-Bot) |
-
----
-| App | Description | More |
-|-----|-------------|------|
-| 🗺 **Geolocation from Screenshot** | Detect location from screenshots | [More Details](https://github.com/Alexaaanik/Screenshot-Geolocation) |
-| 💾 **Git-like Saver** | Local versioning utility | [More Details](https://github.com/Alexaaanik/Git-like-Saver) |
-
-## ⚡ Skills
-
-- 🐍 **Python (Aiogram 2.x, AsyncIO)**
-- 🤖 AI Integration & Computer Vision  
-- 🖥 Desktop Applications  
-- 🗄 PostgreSQL  
-- 🌐 HTML5, Vanilla JS  
-
----
-
-
-## 🌍 Contacts  
-
-- 📞 Phone: [+7 993 615 85 21](tel:+79936158521)  
-- 🌐 Website: [alexanik.ru](https://alexanik.ru)  
-- 📱 Telegram: [@YourBotMaker](https://t.me/YourBotMaker)  
-- ▶️ YouTube: [alexanik](https://www.youtube.com/channel/UCbAc-HHr88_OdjTAb-rZ7gA)  
-- 📧 Email: [hello.anikeev@ya.ru](mailto:hello.anikeev@ya.ru)
 
   
 ⭐️ *Made with passion by [Alexanik](https://alexanik.ru/)*
