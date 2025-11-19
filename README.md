@@ -14,5 +14,4 @@ I am a **Telegram Bot Developer** and **Python Backend Engineer** from Moscow.
 🌐 Website: [alexanik.ru](https://alexanik.ru/)  
 
 
-  
-⭐️ *Made with passion by [Alexanik](https://alexanik.ru/)*
+
